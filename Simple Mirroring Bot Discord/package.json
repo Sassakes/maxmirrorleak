@@ -1,0 +1,6 @@
+{
+    "name": "by-mirrorservice",
+    "dependencies": {
+        "discord.js-selfbot-v13": "^2.10.5"
+    }
+}
