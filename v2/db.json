@@ -1,0 +1,37 @@
+[
+  {
+    "serverId": "1173381137146577046",
+    "serverName": "GodLeakk",
+    "logChannelId": "1175578835467653150",
+    "expireData": [
+      {
+        "username": "kio7242",
+        "id": "330395331030286337",
+        "roleName": "VIP +",
+        "roleId": "1180071131785474058",
+        "expires": "2024-02-08T12:08:16.948Z"
+      },
+      {
+        "username": "burebistaxbt",
+        "id": "403325242694565889",
+        "roleName": "VIP +",
+        "roleId": "1180071131785474058",
+        "expires": "2024-02-08T12:09:06.415Z"
+      },
+      {
+        "username": "mxximex",
+        "id": "240078128641212427",
+        "roleName": "VIP +",
+        "roleId": "1180071131785474058",
+        "expires": "2024-02-07T15:17:21.307Z"
+      },
+      {
+        "username": "hena",
+        "id": "727513934227308636",
+        "roleName": "VIP +",
+        "roleId": "1173548902071402517",
+        "expires": "2024-02-08T15:30:13.335Z"
+      }
+    ]
+  }
+]

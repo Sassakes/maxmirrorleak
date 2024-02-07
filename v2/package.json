@@ -1,0 +1,28 @@
+{
+  "name": "trialbot",
+  "version": "1.0.0",
+  "description": "A bot to grant discord users temporary access to roles.",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathonor/trialbot.git"
+  },
+  "author": "jonathon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathonor/trialbot/issues"
+  },
+  "homepage": "https://github.com/jonathonor/trialbot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.3.0",
+    "lowdb": "^3.0.0",
+    "node-schedule": "^2.1.0",
+    "promise-mysql": "^3.3.1"
+  }
+}
